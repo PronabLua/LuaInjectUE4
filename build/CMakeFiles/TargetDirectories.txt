@@ -1,0 +1,3 @@
+C:/Users/Asus uSER/OneDrive/Documents/LuaInject/build/CMakeFiles/LuaInject.dir
+C:/Users/Asus uSER/OneDrive/Documents/LuaInject/build/CMakeFiles/edit_cache.dir
+C:/Users/Asus uSER/OneDrive/Documents/LuaInject/build/CMakeFiles/rebuild_cache.dir

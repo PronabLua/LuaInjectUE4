@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Asus uSER/OneDrive/Documents/LuaInject/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DLuaInject_EXPORTS -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\LuaInject.dir\\src\\main.cpp.obj -c \"C:\\Users\\Asus uSER\\OneDrive\\Documents\\LuaInject\\src\\main.cpp\"",
+  "file": "C:\\Users\\Asus uSER\\OneDrive\\Documents\\LuaInject\\src\\main.cpp",
+  "output": "CMakeFiles\\LuaInject.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Asus uSER/OneDrive/Documents/LuaInject/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -DLuaInject_EXPORTS -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\LuaInject.dir\\src\\LuaGlobal.cpp.obj -c \"C:\\Users\\Asus uSER\\OneDrive\\Documents\\LuaInject\\src\\LuaGlobal.cpp\"",
+  "file": "C:\\Users\\Asus uSER\\OneDrive\\Documents\\LuaInject\\src\\LuaGlobal.cpp",
+  "output": "CMakeFiles\\LuaInject.dir\\src\\LuaGlobal.cpp.obj"
+}
+]
