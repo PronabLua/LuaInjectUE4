@@ -23,32 +23,6 @@ This project enables developers, researchers, and reverse engineers to inject Lu
 - Maintain a readable and maintainable open-source codebase
 - Help developers understand PUBG Mobile’s Lua pipeline
 
----
-
-## 📁 Repository Structure
-
-.
-├── src/
-│ ├── Hook/
-│ │ ├── LuaHooks.cpp # Lua loader & executor hooks
-│ │ └── UE4Hooks.cpp # Unreal Engine hooks
-│ ├── Lua/
-│ │ ├── Injector.cpp # Script injection logic
-│ │ └── ScriptManager.cpp # Script lifecycle handling
-│ ├── Utils/
-│ │ ├── Logger.cpp
-│ │ └── Memory.cpp
-│ └── Main.cpp # Entry point
-│
-├── include/ # Public headers
-├── scripts/ # Example Lua scripts
-├── CMakeLists.txt
-└── README.md
-
-yaml
-Copy code
-
----
 
 ## 🧠 How It Works
 
